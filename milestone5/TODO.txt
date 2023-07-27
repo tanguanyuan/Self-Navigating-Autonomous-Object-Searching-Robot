@@ -1,0 +1,45 @@
+- to start: - read through the codes to understand it 
+
+- EKF calibration - DONE
+	- research about methods to tune the Q and R values
+	- research about how to modify the update function 
+- SLAM and fruit detection frequency - DONE
+	- might need to run SLAM / fruit detection + pose estimation at runtime
+	- or find a better timing for it
+- Localisation by turning to n-nearest aruco markers
+	- function to calculate distance to each aruco markers, and then return a sorted list about which one is closest - DONE
+- A* algorithm frequency- DONE
+	- how often to run it
+- A* algorithm parameters: = DONE
+	-might need to shrink down the map resolution (currently at 500x500) - DONE
+	-might need to change obstacle ratio - DONE
+	-might need to change the shape of obstacle (currently drawing them as squares, lab material recommeded circles) 
+- TargetPoseEst - DONE
+	- filter outliers during merge estimations - DONE
+- compile milestone 2 - Rui En
+	- and GUI - DONE
+	- change speed dynamically - DONE
+- clean up code - Rui En
+	- compile functions as objects (GUI for example)
+
+- Test out yolov7 - Rui En & Ze Xin
+	- check if some boundings boxes are too wide (does not fit the fruits close enough) -DONE
+	- try deploying yolov7 with the fruits too close or too far -DONE
+	- detector visualiser (Detector.visualise_output()) - DONE
+
+- Correct height/width ratio for all 5 fruits- DONE
+
+- more datasets for NN - Ze Xin - DONE
+	- capture pics at extreme distance (too far and too near)
+		- label the pics using roboflow - DONE
+
+- A* algorithm - GY and Arief
+	-find a way to add in weights (higher penalty around obstacles)
+
+- test EKF using milestone 2 - Rui En
+
+- lower the camera even more - DONE
+
+- measure the marker length of aruco markers - DONE
+
+- merge evaluation files from milestone 2 and milestone 3

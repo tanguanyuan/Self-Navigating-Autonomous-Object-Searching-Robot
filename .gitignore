@@ -1,0 +1,85 @@
+milestone4/lab_output/*
+milestone4/pibot_dataset/*
+*.pyc
+milestone5/lab_output/images.txt
+milestone5/lab_output/pred_0.png
+milestone5/lab_output/pred_1.png
+milestone5/lab_output/pred_10.png
+milestone5/lab_output/pred_11.png
+milestone5/lab_output/pred_12.png
+milestone5/lab_output/pred_2.png
+milestone5/lab_output/pred_3.png
+milestone5/lab_output/pred_4.png
+milestone5/lab_output/pred_5.png
+milestone5/lab_output/pred_6.png
+milestone5/lab_output/pred_7.png
+milestone5/lab_output/pred_8.png
+milestone5/lab_output/pred_9.png
+milestone2/calibration/Images/calib_0.png
+milestone2/calibration/Images/calib_1.png
+milestone2/calibration/Images/calib_10.png
+milestone2/calibration/Images/calib_11.png
+milestone2/calibration/Images/calib_12.png
+milestone2/calibration/Images/calib_13.png
+milestone2/calibration/Images/calib_14.png
+milestone2/calibration/Images/calib_15.png
+milestone2/calibration/Images/calib_16.png
+milestone2/calibration/Images/calib_17.png
+milestone2/calibration/Images/calib_18.png
+milestone2/calibration/Images/calib_19.png
+milestone2/calibration/Images/calib_2.png
+milestone2/calibration/Images/calib_20.png
+milestone2/calibration/Images/calib_21.png
+milestone2/calibration/Images/calib_22.png
+milestone2/calibration/Images/calib_23.png
+milestone2/calibration/Images/calib_24.png
+milestone2/calibration/Images/calib_25.png
+milestone2/calibration/Images/calib_26.png
+milestone2/calibration/Images/calib_27.png
+milestone2/calibration/Images/calib_28.png
+milestone2/calibration/Images/calib_29.png
+milestone2/calibration/Images/calib_3.png
+milestone2/calibration/Images/calib_4.png
+milestone2/calibration/Images/calib_5.png
+milestone2/calibration/Images/calib_6.png
+milestone2/calibration/Images/calib_7.png
+milestone2/calibration/Images/calib_8.png
+milestone2/calibration/Images/calib_9.png
+milestone5/lab_output/pred_13.png
+milestone5/lab_output/pred_14.png
+milestone5/lab_output/pred_15.png
+milestone5/lab_output/pred_16.png
+milestone5/lab_output/pred_17.png
+milestone5/lab_output/pred_18.png
+milestone5/lab_output/pred_19.png
+milestone5/lab_output/pred_20.png
+milestone5/pibot_dataset/img_0.png
+milestone5/pibot_dataset/img (1).png
+milestone5/pibot_dataset/img (10).png
+milestone5/pibot_dataset/img (11).png
+milestone5/pibot_dataset/img (12).png
+milestone5/pibot_dataset/img (13).png
+milestone5/pibot_dataset/img (14).png
+milestone5/pibot_dataset/img (15).png
+milestone5/pibot_dataset/img (16).png
+milestone5/pibot_dataset/img (17).png
+milestone5/pibot_dataset/img (18).png
+milestone5/pibot_dataset/img (19).png
+milestone5/pibot_dataset/img (2).png
+milestone5/pibot_dataset/img (20).png
+milestone5/pibot_dataset/img (21).png
+milestone5/pibot_dataset/img (22).png
+milestone5/pibot_dataset/img (23).png
+milestone5/pibot_dataset/img (24).png
+milestone5/pibot_dataset/img (25).png
+milestone5/pibot_dataset/img (26).png
+milestone5/pibot_dataset/img (27).png
+milestone5/pibot_dataset/img (28).png
+milestone5/pibot_dataset/img (29).png
+milestone5/pibot_dataset/img (3).png
+milestone5/pibot_dataset/img (4).png
+milestone5/pibot_dataset/img (5).png
+milestone5/pibot_dataset/img (6).png
+milestone5/pibot_dataset/img (7).png
+milestone5/pibot_dataset/img (8).png
+milestone5/pibot_dataset/img (9).png

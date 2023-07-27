@@ -1,0 +1,6 @@
+{"pose": [[0], [0.4], [-1.57079]], "imgfname": "lab_output/pred_0.png"}
+{"pose": [[-0.8], [0.4], [0]], "imgfname": "lab_output/pred_1.png"}
+{"pose": [[-0.8], [0.4], [1.57079]], "imgfname": "lab_output/pred_2.png"}
+{"pose": [[-0.4], [-0.4], [0.785398]], "imgfname": "lab_output/pred_3.png"}
+{"pose": [[-0.8], [-0.4], [-0.785398]], "imgfname": "lab_output/pred_4.png"}
+{"pose": [[-1.2], [0], [-0.785398]], "imgfname": "lab_output/pred_5.png"}
